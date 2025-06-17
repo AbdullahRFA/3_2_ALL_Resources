@@ -1,0 +1,14 @@
+Lec 1:Conventional Drug theory
+Lec 2:HSC Biology (Sugar, Carbohydrate) 
+Lec 3:Center Dogma 
+Lec 4:DNA replication
+Lec 5:DNA transcription 
+Lec 6:DNA translation 
+Lec 7:Hypothesis of origin,theory of evolution 
+Lec 8:UPGMA algo
+Lec 9:Neighbour joining method
+Lec 10:Fitch Matgolish method
+Lec 11:Sequence alignment
+Lec 12: PAM 1 matrix construction 
+Lec 13:BLOSSUM scoring matrix,
+Global(Edit distance) and local alignment ( S.Waterman algo)
